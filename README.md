@@ -1,11 +1,17 @@
 # captcha_braker
 
 |--Captchabreaker
+
 |          |--Dataset
+
 |          |--Annotate
+
 |          |--captchahelper
+
 |          |--Convolution_Network.py
+
 |          |--train_model.py
+
 |          |--test_model.py
 
 Link dataset: https://drive.google.com/drive/folders/1YKU4rPV2yV3jpT2BUQNWgJLv4bfGsEyu?usp=sharing
