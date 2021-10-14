@@ -2,17 +2,17 @@
 
 |--Captchabreaker
 
-|          |--Dataset
+|   |--Dataset
 
-|          |--Annotate
+|   |--Annotate
 
-|          |--captchahelper
+|   |--captchahelper
 
-|          |--Convolution_Network.py
+|   |--Convolution_Network.py
 
-|          |--train_model.py
+|   |--train_model.py
 
-|          |--test_model.py
+|   |--test_model.py
 
 Link dataset: https://drive.google.com/drive/folders/1YKU4rPV2yV3jpT2BUQNWgJLv4bfGsEyu?usp=sharing
 Link Annotae: https://drive.google.com/drive/folders/1jl2lefX75NxDw3GvU5MpOI5jw2ze6mjE?usp=sharing
